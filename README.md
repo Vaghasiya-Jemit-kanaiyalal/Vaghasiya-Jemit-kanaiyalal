@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/jemit vaghasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jemit vaghasiya" height="30" width="40" /></a>
 <a href="https://fb.com/jemit vaghasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jemit vaghasiya" height="30" width="40" /></a>
 <a href="https://x.com/jemit vaghasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jemit vaghasiya" height="30" width="40" /></a>
-<a href="https://insttagram.com/jemit vaghasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jemit vaghasiya" height="30" width="40" /></a>
+ 
 
 
 </p>
