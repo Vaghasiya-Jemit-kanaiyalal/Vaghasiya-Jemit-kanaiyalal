@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/jemit vaghasiya](https://www.linkedin.com/in/jemit-vaghasiya-13234b323/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jemit vaghasiya" height="30" width="40" /></a>
-<a href="[https://fb.com/jemit vaghasiya](https://www.facebook.com/profile.php?id=61564228354369)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jemit vaghasiya" height="30" width="40" /></a>
-<a href="[https://x.com/jemit vaghasiya](https://x.com/home)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jemit vaghasiya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jemit-vaghasiya-13234b323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jemit vaghasiya" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61564228354369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jemit vaghasiya" height="30" width="40" /></a>
+<a href="(https://x.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jemit vaghasiya" height="30" width="40" /></a>
  
 
 
