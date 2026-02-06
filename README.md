@@ -41,26 +41,7 @@
 
 
 
-<!-- Divider -->
-<hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
 
-<!-- 📊 GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=vaghasiya-jemit-kanaiyalal&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghasiya-jemit-kanaiyalal&layout=compact&theme=tokyonight" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaghasiya-jemit-kanaiyalal&theme=tokyonight" />
-</td>
-</tr>
-</table>
 
 <!-- Divider -->
 <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
