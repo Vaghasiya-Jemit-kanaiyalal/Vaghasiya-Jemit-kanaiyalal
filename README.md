@@ -16,7 +16,7 @@
 <h2>🌱 About Me</h2>
 
 - 🎓 Currently learning **Computer Science Engineering**  
-- 🏆 Exploring **DSA, Web Dev, Open Source**  
+- 🏆 Exploring **DSA, Web Dev,ML **  
 - 📫 Reach me at: **jemitvaghasiya07@gmail.com**  
 
 <!-- Divider -->
