@@ -16,7 +16,7 @@
 <h2>🌱 About Me</h2>
 
 - 🎓 Currently learning **Computer Science Engineering**  
-- 🏆 Exploring **DSA, Web Dev,ML **  
+- 🏆 Exploring **DSA,Web Dev,ML**  
 - 📫 Reach me at: **jemitvaghasiya07@gmail.com**  
 
 <!-- Divider -->
@@ -36,8 +36,10 @@
 <!-- 🛠️ Languages & Tools -->
 <h2>🛠️ Languages & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,js,node,mysql,vscode,postman,git" />
 </p>
+
+
 
 <!-- Divider -->
 <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
@@ -47,8 +49,8 @@
 <table align="center">
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=vaghasiya-jemit-kanaiyalal&show_icons=true&theme=tokyonight" />
-</td>
+<img src="https://github-readme-stats.vercel.app/api?username=vaghasiya-jemit-kanaiyalal&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
 <td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghasiya-jemit-kanaiyalal&layout=compact&theme=tokyonight" />
 </td>
